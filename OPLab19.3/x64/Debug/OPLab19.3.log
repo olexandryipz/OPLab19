@@ -1,0 +1,3 @@
+﻿  OPLab19.3.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab19\OPLab19.3\OPLab19.3.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OPLab19.3.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab19\x64\Debug\OPLab19.3.exe
